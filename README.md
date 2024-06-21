@@ -1,4 +1,4 @@
-# AB_Testing
+# Splitting Production
 
 This project aims to analyze logged events through an A/B test and understand the
 challenges of building such a solution at a production level.
